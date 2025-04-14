@@ -1,0 +1,7 @@
+<footer class="bg-light py-3 mt-5">
+        <div class="container text-center">
+            <p class="mb-0">CRUD de Productos</p>
+        </div>
+    </footer>
+</body>
+</html>
